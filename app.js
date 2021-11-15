@@ -52,8 +52,8 @@ class UI {
           </div>
           <div class="bottom">
             <div class="btn__group">
-              <button class="btn addToCart" data-id= ${id} >Add to Cart</button>
-              <button class="btn view">View</button>
+              <button class="btn addToCart" data-id= ${id} >Agregar Carrito</button>
+              <button class="btn view">Ver</button>
             </div>
             <div class="price">$${price}</div>
           </div>
